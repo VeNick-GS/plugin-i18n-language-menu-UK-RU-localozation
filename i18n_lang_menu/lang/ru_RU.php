@@ -1,5 +1,5 @@
 <?php
-
+// Translated by Venick: https://github.com/VeNickov/
 $i18n = array (
 	
     'TITLE'=>'Настройки меню языка',
