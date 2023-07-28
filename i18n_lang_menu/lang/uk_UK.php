@@ -1,4 +1,5 @@
 <?php
+// Translated by Venick: https://github.com/VeNickov/
 $i18n = array(
     'TITLE' => "Налаштування меню мови",
     'LANG_CODE' => "Код мови",
